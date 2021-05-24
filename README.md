@@ -9,7 +9,7 @@
 <br>
 - 🔭 I'm a full stack software engineer, heavily focused on backend.<br>
 - 🌱 My primary language is Java.<br>
-- ⚡ I'm skilled at developing high performant application.
+- ⚡ I'm skilled at developing high performant web application.
 
 
 <!--
