@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Visual Overview<br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=arifng&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=arifng&theme=vue&show_icons=true&count_private=true&hide=issues,contribs)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arifng&layout=compact)
 <br>
 #### Still counting<br>
