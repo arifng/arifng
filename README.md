@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arifng&theme=vue&show_icons=true&count_private=true&hide=issues,contribs)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arifng&layout=compact)
 <br>
-#### Still counting<br>
+#### Visitor Counter<br>
 ![Visitor Count](https://profile-counter.glitch.me/{arifng}/count.svg)
