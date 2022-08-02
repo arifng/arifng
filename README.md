@@ -1,6 +1,6 @@
 
 <p align=”center”>
-<img width=”200" height=”200" src="https://github.com/arifng/arifng/blob/da6648f15e2a77a19667101e8a6ecc0c26dd4d55/assets/Banner_github_arifng.jpg" alt=”my banner”>
+<img src="/asset/Banner_github_arifng_small.jpg" alt=”my banner”>
 </p>
 
 ### Hi there 👋, I'm Rana.
