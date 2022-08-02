@@ -1,6 +1,5 @@
-
 <p align=”center”>
-<img src="/asset/Banner_github_arifng_small.jpg" alt=”my banner”>
+  <img src="/assets/Banner_github_arifng_small.jpg" alt="Banner">
 </p>
 
 ### Hi there 👋, I'm Rana.
