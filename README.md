@@ -1,6 +1,6 @@
 
 <p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/30564556/182376529-447b016d-f1b9-4b3e-8491-6caa862a6420.png" alt=”my banner”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/30564556/182377048-3c15ca34-363b-48b3-9b02-817c1f8562b0.png" alt=”my banner”>
 </p>
 
 ### Hi there 👋, I'm Rana.
