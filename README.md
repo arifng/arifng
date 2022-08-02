@@ -1,3 +1,8 @@
+
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/30564556/182376529-447b016d-f1b9-4b3e-8491-6caa862a6420.png" alt=”my banner”>
+</p>
+
 ### Hi there 👋, I'm Rana.
 <a href="https://twitter.com/arifng2">
   <img align="left" alt="Rana | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
