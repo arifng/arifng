@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arifng&theme=vue&show_icons=true&count_private=true&hide=issues,contribs)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arifng&layout=compact)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arifng)](https://git.io/streak-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=arifng&layout=compact)
 <br>
 #### Visitor Counter<br>
 ![Visitor Count](https://profile-counter.glitch.me/{arifng}/count.svg)
