@@ -3,13 +3,16 @@
 </p>
 
 ### Hi there 👋, I'm Rana.
+<a href="https://arifng.medium.com/">
+   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/mdarifulislamrana/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+</a>
+<a href="https://arifng.github.io/">
+   <img src="https://img.shields.io/badge/web-Portfolio-orange">
+</a>
 
-<a href="https://twitter.com/arifng2">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-</a>
-<a href="https://medium.com/@arifng">
-  <img align="left" alt="Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
-</a>
 <br>
 <br>
 - 🔭 I'm a full stack software engineer, heavily focused on backend.<br>
