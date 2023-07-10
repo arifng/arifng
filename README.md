@@ -6,7 +6,7 @@
 <a href="https://arifng.medium.com/">
    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/mdarifulislamrana/">
+<a href="https://www.linkedin.com/in/arifng/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
 </a>
 <a href="https://arifng.github.io/">
